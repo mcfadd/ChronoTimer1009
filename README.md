@@ -1,7 +1,7 @@
-###### ChronoTimer1009
-**For class CS 361**
-**Team Andrea Gasparini, Matt McFadden, Nicholas Cox, Zachary Kennow, Luis Gonzalez, Ben Yuhas**
+## ChronoTimer1009
+**Team: Andrea Gasparini, Matt McFadden, Nicholas Cox, Zachary Kennow, Luis Gonzalez, Ben Yuhas**
 
+**See https://github.com/BraintoByte/ChronoTimer1009 for full commit history**
 
 **Contributions:**
 
